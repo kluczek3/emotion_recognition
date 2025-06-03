@@ -3,3 +3,9 @@ data/processed/*
 
 !data/raw/.gitkeep
 !data/processed/.gitkeep
+
+models/history/*
+models/saved/*
+
+!models/history/.gitkeep
+!models/saved/.gitkeep
